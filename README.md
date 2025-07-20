@@ -1,17 +1,15 @@
 # Coral Theme for Obsidian 🌺
 
-Coral adalah tema custom buatan Alfian Rina untuk Obsidian, dengan nuansa warna lembut, simpel, dan nyaman dilihat.
+Coral is a custom theme created by Alfian Rina & khalifahabhar8 for Obsidian, featuring soft pastel colors, a simple layout, and a soothing look.
 
-## 🎨 Fitur
-- Warna pastel ala coral
-- UI bersih & minimalis
-- Nyaman di mata, cocok buat fokus nulis
+## 🎨 Features
+- Coral-style pastel colors
+- Clean & minimal UI
+- Easy on the eyes, perfect for focused writing
 
-## 🛠️ Cara Pakai
-1. Download semua file di repo ini
-2. Taruh di folder `.obsidian/themes/coral/` di vault kamu
-3. Buka Settings → Appearance → Themes → pilih “Coral”
+## 🛠️ How to Use
+1. Download all files from this repository
+2. Place them in your vault's `.obsidian/themes/coral/` folder
+3. Open Obsidian → Settings → Appearance → Themes → select “Coral”
 
 ---
-
-
